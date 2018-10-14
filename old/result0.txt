@@ -1,0 +1,1917 @@
+momentum = 0.1
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.583918
+validation_score: 0.427402
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.565259
+validation_score: 0.383935
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.521945
+validation_score: 0.536322
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.599629
+validation_score: 0.422222
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.514825
+validation_score: 0.512543
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.572519
+validation_score: 0.349528
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.572462
+validation_score: 0.411014
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.639699
+validation_score: 0.528016
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.609030
+validation_score: 0.411607
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.1, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.516752
+validation_score: 0.222811
+momentum = 0.2
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.513203
+validation_score: 0.338246
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.522586
+validation_score: 0.358252
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.538904
+validation_score: 0.378596
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.574336
+validation_score: 0.444283
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.547618
+validation_score: 0.403764
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.613876
+validation_score: 0.623447
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.563588
+validation_score: 0.516421
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.598234
+validation_score: 0.648118
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.464397
+validation_score: 0.423442
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.2, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.554168
+validation_score: 0.438418
+momentum = 0.3
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.566616
+validation_score: 0.715409
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.522126
+validation_score: 0.600279
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.604575
+validation_score: 0.351517
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.497453
+validation_score: 0.446309
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.678697
+validation_score: 0.593558
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.497324
+validation_score: 0.324085
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.588481
+validation_score: 0.427224
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.511776
+validation_score: 0.388924
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.615006
+validation_score: 0.484118
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.638750
+validation_score: 0.466800
+momentum = 0.4
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.646265
+validation_score: 0.441775
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.582286
+validation_score: 0.514390
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.525152
+validation_score: 0.536708
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.548351
+validation_score: 0.544208
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.549709
+validation_score: 0.549882
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.513358
+validation_score: 0.482393
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.615512
+validation_score: 0.519093
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.486914
+validation_score: 0.544216
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.506887
+validation_score: 0.484358
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.521302
+validation_score: 0.393478
+momentum = 0.5
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.431892
+validation_score: 0.614670
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.585195
+validation_score: 0.541970
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.526851
+validation_score: 0.382524
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.537111
+validation_score: 0.491703
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.619845
+validation_score: 0.579667
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.498493
+validation_score: 0.503459
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.546616
+validation_score: 0.418772
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.539319
+validation_score: 0.266863
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.532997
+validation_score: 0.553650
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.499720
+validation_score: 0.350382
+momentum = 0.6
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.572259
+validation_score: 0.417131
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.629858
+validation_score: 0.377008
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.593826
+validation_score: 0.489666
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.617411
+validation_score: 0.364439
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.564123
+validation_score: 0.548215
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.535290
+validation_score: 0.537449
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.566241
+validation_score: 0.624389
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.568994
+validation_score: 0.810624
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.539542
+validation_score: 0.566555
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.6, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.605201
+validation_score: 0.467407
+momentum = 0.7
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.542546
+validation_score: 0.328360
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.538321
+validation_score: 0.471693
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.637662
+validation_score: 0.454524
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.527421
+validation_score: 0.728248
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.559459
+validation_score: 0.546855
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.599679
+validation_score: 0.359557
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.516427
+validation_score: 0.574429
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.496611
+validation_score: 0.380464
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.581173
+validation_score: 0.407311
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.7, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.482534
+validation_score: 0.506532
+momentum = 0.8
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.556466
+validation_score: 0.406185
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.584700
+validation_score: 0.463567
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.615284
+validation_score: 0.345842
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.471114
+validation_score: 0.531903
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.538714
+validation_score: 0.343032
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.548019
+validation_score: 0.637288
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.508309
+validation_score: 0.446154
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.555847
+validation_score: 0.709522
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.624468
+validation_score: 0.403120
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.8, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.471867
+validation_score: 0.526091
+momentum = 0.9
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.631300
+validation_score: 0.331165
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.648833
+validation_score: 0.422258
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.617970
+validation_score: 0.477791
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.544313
+validation_score: 0.271284
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.594310
+validation_score: 0.542493
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.640143
+validation_score: 0.420093
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.583613
+validation_score: 0.431000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.661375
+validation_score: 0.528402
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.628645
+validation_score: 0.550637
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.631861
+validation_score: 0.565718
+momentum = 1.0
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.560854
+validation_score: 0.413083
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.589682
+validation_score: 0.439149
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.492560
+validation_score: 0.577154
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.474353
+validation_score: 0.477269
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.589163
+validation_score: 0.500847
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.503305
+validation_score: 0.673138
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.565841
+validation_score: 0.339461
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.580131
+validation_score: 0.371781
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.516534
+validation_score: 0.554650
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.532748
+validation_score: 0.413025
+momentum = 1.5
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.552547
+validation_score: 0.729701
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.564124
+validation_score: 0.620148
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.580604
+validation_score: 0.391720
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.531242
+validation_score: 0.509462
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.636696
+validation_score: 0.328351
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.611824
+validation_score: 0.541922
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.495590
+validation_score: 0.408685
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.481872
+validation_score: 0.443952
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.636510
+validation_score: 0.524845
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 1.5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.514128
+validation_score: 0.375421
+momentum = 2.0
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.598289
+validation_score: 0.230810
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.522815
+validation_score: 0.677554
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.537940
+validation_score: 0.696110
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.602715
+validation_score: 0.478581
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.585040
+validation_score: 0.672555
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.557213
+validation_score: 0.328441
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.495562
+validation_score: 0.524616
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.500626
+validation_score: 0.327125
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.597438
+validation_score: 0.455101
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 2.0, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.611598
+validation_score: 0.737588
+momentum = 3
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.528051
+validation_score: 0.479516
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.586351
+validation_score: 0.753095
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.548006
+validation_score: 0.481968
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.592354
+validation_score: 0.363064
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.519418
+validation_score: 0.487264
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.623607
+validation_score: 0.406708
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.521063
+validation_score: 0.380703
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.563278
+validation_score: 0.512142
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.583002
+validation_score: 0.342094
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 3, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.560965
+validation_score: 0.446906
+momentum = 4
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.491278
+validation_score: 0.697444
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.573207
+validation_score: 0.419920
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.609499
+validation_score: 0.491957
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.585589
+validation_score: 0.468858
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.591904
+validation_score: 0.368865
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.569451
+validation_score: 0.533656
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.529568
+validation_score: 0.484592
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.441793
+validation_score: 0.471593
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.571062
+validation_score: 0.606830
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 4, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.636856
+validation_score: 0.403299
+momentum = 5
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.590868
+validation_score: 0.390414
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.629755
+validation_score: 0.470037
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.506560
+validation_score: 0.465937
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.529818
+validation_score: 0.574450
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.603108
+validation_score: 0.500706
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.580716
+validation_score: 0.364612
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.601571
+validation_score: 0.481536
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.591687
+validation_score: 0.606921
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.557923
+validation_score: 0.464527
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 5, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.651624
+validation_score: 0.343453
+batch_size = 10
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.997726
+validation_score: 0.468807
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.953593
+validation_score: 0.492159
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.998460
+validation_score: 0.428215
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.999454
+validation_score: 0.538642
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.987447
+validation_score: 0.572801
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.998838
+validation_score: 0.497058
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.998400
+validation_score: 0.576653
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.991335
+validation_score: 0.423638
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.996622
+validation_score: 0.499477
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 10, 0.001, 0.0, 'False', 1)
+train_score: 0.979370
+validation_score: 0.583281
+batch_size = 50
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.962421
+validation_score: 0.592185
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.992671
+validation_score: 0.459372
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.991184
+validation_score: 0.455827
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.998577
+validation_score: 0.455629
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.992204
+validation_score: 0.472218
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.993307
+validation_score: 0.433527
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.994672
+validation_score: 0.536792
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.989184
+validation_score: 0.407259
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.999290
+validation_score: 0.454547
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 50, 0.001, 0.0, 'False', 1)
+train_score: 0.992890
+validation_score: 0.564152
+batch_size = 100
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.936276
+validation_score: 0.507289
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.943007
+validation_score: 0.513040
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.914169
+validation_score: 0.407061
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.958474
+validation_score: 0.602555
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.900903
+validation_score: 0.437738
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.961029
+validation_score: 0.508148
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.878933
+validation_score: 0.530521
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.941330
+validation_score: 0.578667
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.946563
+validation_score: 0.529355
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 100, 0.001, 0.0, 'False', 1)
+train_score: 0.937761
+validation_score: 0.364467
+batch_size = 300
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.677646
+validation_score: 0.534134
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.778444
+validation_score: 0.430980
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.669055
+validation_score: 0.448084
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.637447
+validation_score: 0.524353
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.642275
+validation_score: 0.436710
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.693691
+validation_score: 0.502920
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.700098
+validation_score: 0.464445
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.754673
+validation_score: 0.425839
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.707698
+validation_score: 0.486726
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 300, 0.001, 0.0, 'False', 1)
+train_score: 0.693369
+validation_score: 0.388771
+batch_size = 500
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.619341
+validation_score: 0.388979
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.581746
+validation_score: 0.455876
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.549157
+validation_score: 0.434946
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.595041
+validation_score: 0.631053
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.608170
+validation_score: 0.491979
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.621400
+validation_score: 0.421045
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.603869
+validation_score: 0.530282
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.660318
+validation_score: 0.398064
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.556938
+validation_score: 0.351737
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 500, 0.001, 0.0, 'False', 1)
+train_score: 0.643519
+validation_score: 0.599102
+batch_size = 800
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.561493
+validation_score: 0.413548
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.602220
+validation_score: 0.570384
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.590430
+validation_score: 0.410985
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.477483
+validation_score: 0.364666
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.624233
+validation_score: 0.516771
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.583194
+validation_score: 0.654082
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.579644
+validation_score: 0.447785
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.476919
+validation_score: 0.470894
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.620683
+validation_score: 0.354826
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 800, 0.001, 0.0, 'False', 1)
+train_score: 0.659669
+validation_score: 0.511814
+batch_size = 1000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.667770
+validation_score: 0.435033
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.597605
+validation_score: 0.198294
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.562510
+validation_score: 0.614278
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.488597
+validation_score: 0.630714
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.551144
+validation_score: 0.430246
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.482269
+validation_score: 0.371562
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.538087
+validation_score: 0.307185
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.541676
+validation_score: 0.312682
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.603274
+validation_score: 0.399861
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.532879
+validation_score: 0.391842
+batch_size = 2000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.533233
+validation_score: 0.451437
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.528143
+validation_score: 0.562959
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.566702
+validation_score: 0.466839
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.494695
+validation_score: 0.498596
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.550600
+validation_score: 0.508369
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.618104
+validation_score: 0.418406
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.531479
+validation_score: 0.570769
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.483896
+validation_score: 0.534361
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.497556
+validation_score: 0.392664
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 2000, 0.001, 0.0, 'False', 1)
+train_score: 0.490255
+validation_score: 0.420377
+batch_size = 3000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.445483
+validation_score: 0.323863
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.482843
+validation_score: 0.495164
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.651808
+validation_score: 0.493040
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.575567
+validation_score: 0.601070
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.479989
+validation_score: 0.652192
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.515751
+validation_score: 0.662176
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.590433
+validation_score: 0.674703
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.447768
+validation_score: 0.701980
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.424503
+validation_score: 0.433767
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 3000, 0.001, 0.0, 'False', 1)
+train_score: 0.441332
+validation_score: 0.291101
+batch_size = 4000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.474293
+validation_score: 0.387943
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.350877
+validation_score: 0.687589
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.465319
+validation_score: 0.321623
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.437711
+validation_score: 0.413321
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.530352
+validation_score: 0.491562
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.559210
+validation_score: 0.412109
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.552081
+validation_score: 0.550989
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.550317
+validation_score: 0.406281
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.474708
+validation_score: 0.362329
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 4000, 0.001, 0.0, 'False', 1)
+train_score: 0.496524
+validation_score: 0.509775
+learning_rate = 1e-10
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.528281
+validation_score: 0.474561
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.499914
+validation_score: 0.666097
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.499430
+validation_score: 0.526841
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.569109
+validation_score: 0.551781
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.474014
+validation_score: 0.556016
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.442453
+validation_score: 0.421213
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.492575
+validation_score: 0.548408
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.509439
+validation_score: 0.347396
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.440623
+validation_score: 0.495909
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-10, 0.0, 'False', 1)
+train_score: 0.579083
+validation_score: 0.436870
+learning_rate = 1e-08
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.484177
+validation_score: 0.442416
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.555336
+validation_score: 0.369500
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.438394
+validation_score: 0.667842
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.519776
+validation_score: 0.493697
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.493993
+validation_score: 0.470534
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.498120
+validation_score: 0.599580
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.587419
+validation_score: 0.629244
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.497644
+validation_score: 0.283004
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.517413
+validation_score: 0.654653
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-08, 0.0, 'False', 1)
+train_score: 0.488235
+validation_score: 0.643457
+learning_rate = 1e-05
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.458355
+validation_score: 0.442713
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.573196
+validation_score: 0.556188
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.611071
+validation_score: 0.412905
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.528673
+validation_score: 0.639876
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.522175
+validation_score: 0.462582
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.514796
+validation_score: 0.225439
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.416195
+validation_score: 0.544547
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.583193
+validation_score: 0.517322
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.515759
+validation_score: 0.448655
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 1e-05, 0.0, 'False', 1)
+train_score: 0.433368
+validation_score: 0.707303
+learning_rate = 0.001
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.568194
+validation_score: 0.473219
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.539472
+validation_score: 0.328869
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.516778
+validation_score: 0.592321
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.628611
+validation_score: 0.453005
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.555791
+validation_score: 0.406831
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.469574
+validation_score: 0.503390
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.592868
+validation_score: 0.443926
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.559188
+validation_score: 0.483570
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.531585
+validation_score: 0.362993
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.552504
+validation_score: 0.510019
+learning_rate = 0.01
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.557656
+validation_score: 0.475962
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.584645
+validation_score: 0.514035
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.587227
+validation_score: 0.501811
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.603546
+validation_score: 0.466392
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.556829
+validation_score: 0.467019
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.558136
+validation_score: 0.523956
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.585545
+validation_score: 0.520297
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.593328
+validation_score: 0.527967
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.587023
+validation_score: 0.544330
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.01, 0.0, 'False', 1)
+train_score: 0.565449
+validation_score: 0.529625
+learning_rate = 0.1
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.1, 0.0, 'False', 1)
+train_score: 0.500000
+validation_score: 0.500000
+decay = 1e-10
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.649786
+validation_score: 0.611456
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.505275
+validation_score: 0.350740
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.529876
+validation_score: 0.290082
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.493123
+validation_score: 0.331898
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.542649
+validation_score: 0.557716
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.409791
+validation_score: 0.510073
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.577798
+validation_score: 0.468628
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.582853
+validation_score: 0.540882
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.531723
+validation_score: 0.488609
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-10, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.509252
+validation_score: 0.528041
+decay = 1e-08
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.632662
+validation_score: 0.238995
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.503710
+validation_score: 0.457906
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.574099
+validation_score: 0.396963
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.555866
+validation_score: 0.489228
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.550730
+validation_score: 0.542398
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.557208
+validation_score: 0.460007
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.458931
+validation_score: 0.578677
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.500835
+validation_score: 0.380129
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.604034
+validation_score: 0.613403
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-08, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.473061
+validation_score: 0.496462
+decay = 1e-06
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.663563
+validation_score: 0.413343
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.581812
+validation_score: 0.397604
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.593124
+validation_score: 0.438076
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.522850
+validation_score: 0.601407
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.584545
+validation_score: 0.694842
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.473911
+validation_score: 0.490037
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.507832
+validation_score: 0.286938
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.609352
+validation_score: 0.372239
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.537450
+validation_score: 0.600262
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.571795
+validation_score: 0.324982
+decay = 0.0001
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.549683
+validation_score: 0.300162
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.561873
+validation_score: 0.633623
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.602759
+validation_score: 0.417399
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.476152
+validation_score: 0.486852
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.594559
+validation_score: 0.478274
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.518199
+validation_score: 0.572278
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.492106
+validation_score: 0.528751
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.591648
+validation_score: 0.645871
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.662374
+validation_score: 0.574783
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.0001, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.607169
+validation_score: 0.448743
+decay = 0.01
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.510879
+validation_score: 0.481768
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.478174
+validation_score: 0.509295
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.501130
+validation_score: 0.397601
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.544568
+validation_score: 0.285413
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.591944
+validation_score: 0.584366
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.539769
+validation_score: 0.571189
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.629372
+validation_score: 0.505764
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.588970
+validation_score: 0.550045
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.537240
+validation_score: 0.481369
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.01, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.614622
+validation_score: 0.659146
+decay = 0.1
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.578905
+validation_score: 0.447774
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.525434
+validation_score: 0.730001
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.609301
+validation_score: 0.414086
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.542535
+validation_score: 0.464184
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.560278
+validation_score: 0.424343
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.511480
+validation_score: 0.402414
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.653772
+validation_score: 0.313251
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.575115
+validation_score: 0.493503
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.558443
+validation_score: 0.816843
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0.1, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.646710
+validation_score: 0.569130
+decay = 0
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.515189
+validation_score: 0.485663
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.656500
+validation_score: 0.416389
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.557856
+validation_score: 0.615433
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.475438
+validation_score: 0.424999
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.591556
+validation_score: 0.545208
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.550755
+validation_score: 0.492115
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.571063
+validation_score: 0.527006
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.530948
+validation_score: 0.361294
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.559753
+validation_score: 0.448963
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 0, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.543724
+validation_score: 0.532716
+nb_epoch = 1
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.549579
+validation_score: 0.368813
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.660487
+validation_score: 0.598657
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.630599
+validation_score: 0.336522
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.580521
+validation_score: 0.287041
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.619982
+validation_score: 0.642807
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.581163
+validation_score: 0.515189
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.484105
+validation_score: 0.439564
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.676435
+validation_score: 0.403960
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.536414
+validation_score: 0.399859
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.583597
+validation_score: 0.425108
+nb_epoch = 2
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.697498
+validation_score: 0.583316
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.659949
+validation_score: 0.598076
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.737355
+validation_score: 0.511169
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.649192
+validation_score: 0.363607
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.694376
+validation_score: 0.487354
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.677757
+validation_score: 0.448104
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.645706
+validation_score: 0.545246
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.692277
+validation_score: 0.447039
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.624581
+validation_score: 0.425054
+Best hyperparameters: (2, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.685296
+validation_score: 0.502663
+nb_epoch = 3
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.728626
+validation_score: 0.542179
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.679334
+validation_score: 0.515813
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.704221
+validation_score: 0.477372
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.738723
+validation_score: 0.399235
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.732916
+validation_score: 0.507158
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.737774
+validation_score: 0.486256
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.798026
+validation_score: 0.491381
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.758419
+validation_score: 0.430719
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.754395
+validation_score: 0.452855
+Best hyperparameters: (3, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.727740
+validation_score: 0.469542
+nb_epoch = 4
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.797468
+validation_score: 0.430136
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.834835
+validation_score: 0.435106
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.937652
+validation_score: 0.507508
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.825172
+validation_score: 0.390843
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.851353
+validation_score: 0.555329
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.726793
+validation_score: 0.488229
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.847724
+validation_score: 0.745033
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.765049
+validation_score: 0.399025
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.846027
+validation_score: 0.460432
+Best hyperparameters: (4, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.797507
+validation_score: 0.564322
+nb_epoch = 5
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.894051
+validation_score: 0.489365
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.890664
+validation_score: 0.554397
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.966384
+validation_score: 0.461446
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.919610
+validation_score: 0.521984
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.904880
+validation_score: 0.412324
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.885428
+validation_score: 0.485205
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.860396
+validation_score: 0.403363
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.949597
+validation_score: 0.416588
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.948998
+validation_score: 0.495055
+Best hyperparameters: (5, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.869246
+validation_score: 0.515680
+nesterov = False
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.568470
+validation_score: 0.296808
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.578400
+validation_score: 0.513774
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.556856
+validation_score: 0.610388
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.632183
+validation_score: 0.329988
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.498200
+validation_score: 0.546255
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.546442
+validation_score: 0.734865
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.563843
+validation_score: 0.340034
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.545874
+validation_score: 0.594723
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.618919
+validation_score: 0.570610
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.594765
+validation_score: 0.591671
+nesterov = True
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.589798
+validation_score: 0.272846
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.512152
+validation_score: 0.577499
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.564533
+validation_score: 0.596364
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.587045
+validation_score: 0.748479
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.564299
+validation_score: 0.519108
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.503781
+validation_score: 0.504337
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.593689
+validation_score: 0.612832
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.538030
+validation_score: 0.576747
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.589719
+validation_score: 0.662478
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'True', 1)
+train_score: 0.500981
+validation_score: 0.458898
+dropouts = (0.0,)
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.693816
+validation_score: 0.605508
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.526277
+validation_score: 0.546063
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.620336
+validation_score: 0.498616
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.595477
+validation_score: 0.521257
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.554424
+validation_score: 0.425025
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.604986
+validation_score: 0.346884
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.686192
+validation_score: 0.420714
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.593125
+validation_score: 0.390084
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.664150
+validation_score: 0.682212
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.0,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.633219
+validation_score: 0.531509
+dropouts = (0.1,)
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.684685
+validation_score: 0.344443
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.572386
+validation_score: 0.413114
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.655077
+validation_score: 0.645374
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.613891
+validation_score: 0.430744
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.596057
+validation_score: 0.447550
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.618257
+validation_score: 0.478760
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.534731
+validation_score: 0.544129
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.597705
+validation_score: 0.530289
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.532871
+validation_score: 0.518888
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.1,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.532874
+validation_score: 0.588669
+dropouts = (0.3,)
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.561221
+validation_score: 0.516562
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.503113
+validation_score: 0.377948
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.547867
+validation_score: 0.566802
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.486781
+validation_score: 0.576944
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.592693
+validation_score: 0.541326
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.574469
+validation_score: 0.597033
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.547327
+validation_score: 0.350197
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.582306
+validation_score: 0.346321
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.558592
+validation_score: 0.588642
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.3,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.549326
+validation_score: 0.470685
+dropouts = (0.5,)
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.519723
+validation_score: 0.382270
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.526556
+validation_score: 0.334935
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.596263
+validation_score: 0.441804
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.592389
+validation_score: 0.361166
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.560641
+validation_score: 0.590373
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.594901
+validation_score: 0.404308
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.534291
+validation_score: 0.492150
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.516211
+validation_score: 0.517382
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.440555
+validation_score: 0.180937
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.567256
+validation_score: 0.329948
+dropouts = (0.7,)
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.610793
+validation_score: 0.520429
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.521183
+validation_score: 0.290745
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.410849
+validation_score: 0.518382
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.529163
+validation_score: 0.586806
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.559797
+validation_score: 0.405336
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.484904
+validation_score: 0.460328
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.548912
+validation_score: 0.489946
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.490406
+validation_score: 0.437147
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.541372
+validation_score: 0.508854
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.7,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.569629
+validation_score: 0.364229
+dropouts = (0.9,)
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.546031
+validation_score: 0.401731
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.481164
+validation_score: 0.508779
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.514155
+validation_score: 0.436644
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.490112
+validation_score: 0.537140
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.484555
+validation_score: 0.510538
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.544174
+validation_score: 0.486662
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.463491
+validation_score: 0.350469
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.511200
+validation_score: 0.641877
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.530178
+validation_score: 0.498361
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.9,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.582677
+validation_score: 0.493502
+dropouts = (1.0,)
+nb_layers = 1
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.536329
+validation_score: 0.616124
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.520738
+validation_score: 0.492426
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.648437
+validation_score: 0.477284
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.556519
+validation_score: 0.390589
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.620218
+validation_score: 0.614252
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.600857
+validation_score: 0.419577
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.459017
+validation_score: 0.405082
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.620641
+validation_score: 0.456268
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.575674
+validation_score: 0.330333
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.462837
+validation_score: 0.506391
+nb_layers = 2
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.652203
+validation_score: 0.576871
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.543835
+validation_score: 0.455092
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.535165
+validation_score: 0.474853
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.714699
+validation_score: 0.536264
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.539627
+validation_score: 0.514811
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.588812
+validation_score: 0.445387
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.571174
+validation_score: 0.385987
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.507926
+validation_score: 0.482648
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.610311
+validation_score: 0.443622
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 2)
+train_score: 0.508292
+validation_score: 0.379283
+nb_layers = 3
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.591295
+validation_score: 0.732640
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.622246
+validation_score: 0.496662
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.539063
+validation_score: 0.469053
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.627135
+validation_score: 0.576924
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.629724
+validation_score: 0.456556
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.558521
+validation_score: 0.435771
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.511631
+validation_score: 0.582770
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.555904
+validation_score: 0.425582
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.600734
+validation_score: 0.219250
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 3)
+train_score: 0.602418
+validation_score: 0.513685
+nb_layers = 4
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.540989
+validation_score: 0.347667
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.585988
+validation_score: 0.498742
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.548988
+validation_score: 0.341715
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.591768
+validation_score: 0.461526
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.680232
+validation_score: 0.684358
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.620592
+validation_score: 0.397887
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.537101
+validation_score: 0.525292
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.559940
+validation_score: 0.486442
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.480756
+validation_score: 0.414473
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 4)
+train_score: 0.604689
+validation_score: 0.447316
+nb_layers = 5
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.540753
+validation_score: 0.381494
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.531618
+validation_score: 0.485046
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.560214
+validation_score: 0.421398
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.603739
+validation_score: 0.307681
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.559878
+validation_score: 0.346324
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.554612
+validation_score: 0.417516
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.592792
+validation_score: 0.665303
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.568510
+validation_score: 0.524484
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.639601
+validation_score: 0.511780
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 5)
+train_score: 0.553986
+validation_score: 0.488944
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.559054
+validation_score: 0.502578
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.590179
+validation_score: 0.387077
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.592211
+validation_score: 0.458124
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.506447
+validation_score: 0.311287
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.509541
+validation_score: 0.518933
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.646963
+validation_score: 0.299390
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.558995
+validation_score: 0.477324
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.608367
+validation_score: 0.533994
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.498014
+validation_score: 0.265921
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.553261
+validation_score: 0.367366
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.483475
+validation_score: 0.471883
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.526091
+validation_score: 0.344565
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.582148
+validation_score: 0.534048
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.541932
+validation_score: 0.407831
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.485686
+validation_score: 0.642420
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.584649
+validation_score: 0.553509
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.496102
+validation_score: 0.586788
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.505553
+validation_score: 0.481677
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.510657
+validation_score: 0.603346
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'True', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.556689
+validation_score: 0.432502
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.509980
+validation_score: 0.663216
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.504218
+validation_score: 0.469255
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.408196
+validation_score: 0.513404
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.544329
+validation_score: 0.614268
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.445084
+validation_score: 0.355384
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.498577
+validation_score: 0.534112
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.513747
+validation_score: 0.242576
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.540502
+validation_score: 0.370696
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.429554
+validation_score: 0.302980
+Best hyperparameters: (1, 'glorot_uniform', (100,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.455622
+validation_score: 0.442540
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.491808
+validation_score: 0.435329
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.481382
+validation_score: 0.431969
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.452519
+validation_score: 0.486047
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.584231
+validation_score: 0.434796
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.489437
+validation_score: 0.471083
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.526778
+validation_score: 0.609370
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.480958
+validation_score: 0.347747
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.535559
+validation_score: 0.517327
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.604997
+validation_score: 0.574139
+Best hyperparameters: (1, 'glorot_uniform', (500,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.577039
+validation_score: 0.545801
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.494897
+validation_score: 0.458911
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.528442
+validation_score: 0.336917
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.517137
+validation_score: 0.405781
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.533385
+validation_score: 0.455142
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.527663
+validation_score: 0.476332
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.583074
+validation_score: 0.445479
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.532383
+validation_score: 0.555214
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.549711
+validation_score: 0.325624
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.570841
+validation_score: 0.496576
+Best hyperparameters: (1, 'glorot_uniform', (1000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.598409
+validation_score: 0.541934
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.565681
+validation_score: 0.455897
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.558061
+validation_score: 0.568720
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.557687
+validation_score: 0.526545
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.589814
+validation_score: 0.438787
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.543755
+validation_score: 0.466960
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.530413
+validation_score: 0.365224
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.564756
+validation_score: 0.553997
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.550301
+validation_score: 0.420605
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.609557
+validation_score: 0.494113
+Best hyperparameters: (1, 'glorot_uniform', (2000,), 'False', (0.5,), 1e-06, (1.0,), (1024,), 'relu', (0.1,), 0.9, 1000, 0.001, 0.0, 'False', 1)
+train_score: 0.592129
+validation_score: 0.507081
