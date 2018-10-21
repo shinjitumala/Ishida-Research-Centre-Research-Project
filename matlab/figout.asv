@@ -1,0 +1,12 @@
+filename='momentum';
+path=strcat(filename,'.dat');
+opath=strcat('fig/', filename, '.jpg'
+
+load(path);
+x=momentum(:,1); y= momentum(:,2);
+
+fig = plot(x,y, 'ro-');
+xlabel(filename);
+ylabel('validation score');
+saveas(fig, 'fig/' + filename + '.jpg')
+    
