@@ -1,0 +1,21 @@
+Columns of dataset: ['MUV-466' 'MUV-548' 'MUV-600' 'MUV-644' 'MUV-652' 'MUV-689' 'MUV-692'
+ 'MUV-712' 'MUV-713' 'MUV-733' 'MUV-737' 'MUV-810' 'MUV-832' 'MUV-846'
+ 'MUV-852' 'MUV-858' 'MUV-859' 'mol_id' 'smiles']
+Number of examples in dataset: 10000
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from medium_muv.csv.gz
+Loading shard 1 of size 8192.
+Featurizing sample 0

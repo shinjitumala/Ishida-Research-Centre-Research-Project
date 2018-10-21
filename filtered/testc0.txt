@@ -1,0 +1,13 @@
+===============================================
+parameter = custom
+validation_score: 0.441426
+validation_score: 0.537658
+validation_score: 0.505403
+validation_score: 0.641164
+validation_score: 0.492656
+validation_score: 0.496548
+validation_score: 0.532274
+validation_score: 0.492604
+validation_score: 0.521748
+validation_score: 0.487545
+===============================================

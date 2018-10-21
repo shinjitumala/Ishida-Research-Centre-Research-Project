@@ -1,0 +1,136 @@
+Columns of dataset: ['MUV-466' 'MUV-548' 'MUV-600' 'MUV-644' 'MUV-652' 'MUV-689' 'MUV-692'
+ 'MUV-712' 'MUV-713' 'MUV-733' 'MUV-737' 'MUV-810' 'MUV-832' 'MUV-846'
+ 'MUV-852' 'MUV-858' 'MUV-859' 'mol_id' 'smiles']
+Number of examples in dataset: 10000
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+<IPython.core.display.Image object>
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from medium_muv.csv.gz
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+Featurizing sample 5000
+Featurizing sample 6000
+Featurizing sample 7000
+Featurizing sample 8000
+TIMING: featurizing shard 0 took 47.471 s
+Loading shard 2 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 1 took 11.056 s
+TIMING: dataset construction took 59.501 s
+Loading dataset from disk.
+Computing train/valid/test indices
+TIMING: dataset construction took 1.445 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.470 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.484 s
+Loading dataset from disk.
+===============================================
+parameter = custom
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [1.0, nan, 0.9996012759170654, 0.9, 0.625, 0.75, 0.8500000000000001, 0.5, 0.9370492788461539, 0.5, 1.0, 0.9986998514115899, nan, 1.0, 1.0, 1.0, 1.0]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.870690
+validation_score: 0.500000
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [0.9988601823708207, nan, 0.5833333333333333, 0.8, 0.625, 0.75, 0.6, 0.8, 0.9981971153846154, 0.9166666666666667, 1.0, 0.9992570579494799, nan, 0.875, 1.0, 0.5, 0.9996180290297938]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.829729
+validation_score: 0.500000
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [0.5, nan, 0.6666666666666667, 0.9, 0.6875, 1.0, 1.0, 1.0, 0.9989983974358974, 1.0, 1.0, 0.99981426448737, nan, 1.0, 1.0, 1.0, 0.9996180290297938]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.916840
+validation_score: 0.500000
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.495945945945946, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.498649
+	best_validation_score so far: 0.498649
+computed_metrics: [1.0, nan, 0.9166666666666667, 0.55, 0.999621212121212, 0.875, 0.95, 0.94939713639789, 0.9989983974358975, 0.75, 1.0, 1.0, nan, 0.75, 1.0, 1.0, 1.0]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.915979
+validation_score: 0.498649
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.4968553459119497, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.498952
+	best_validation_score so far: 0.498952
+computed_metrics: [1.0, nan, 1.0, 0.8993804664723033, 1.0, 1.0, 0.8, 0.8500000000000001, 0.875, 1.0, 1.0, 0.99962852897474, nan, 0.75, 0.999811320754717, 1.0, 0.9996180290297938]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.944896
+validation_score: 0.498952
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [0.75, nan, 1.0, 0.6, 0.8125, 1.0, 0.95, 0.6499999999999999, 0.5, 1.0, 1.0, 0.5, nan, 0.75, 1.0, 1.0, 0.5]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.800833
+validation_score: 0.500000
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [0.5, nan, 1.0, 0.8498177842565597, 0.5, 1.0, 0.7, 0.8500000000000001, 0.9375, 0.8333333333333333, 1.0, 0.75, nan, 1.0, 1.0, 1.0, 0.9996180290297938]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.861351
+validation_score: 0.500000
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [0.75, nan, 1.0, 1.0, 0.75, 0.625, 0.5, 0.7, 0.875, 0.5, 1.0, 1.0, nan, 0.75, 1.0, 1.0, 1.0]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.830000
+validation_score: 0.500000
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [1.0, nan, 0.9166666666666667, 0.9996355685131195, 0.625, 0.9996363636363637, 0.8, 0.8, 1.0, 0.6666666666666667, 1.0, 1.0, nan, 1.0, 1.0, 0.5, 0.9996180290297938]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.887148
+validation_score: 0.500000
+Fitting model 1/1
+hyperparameters: {'momentum': 0.8, 'nb_layers': 5, 'learning_rate': 0.0001, 'penalty': 0.0, 'dropouts': (0.1, 0.1, 0.1, 0.1, 0.1), 'decay': 1e-09, 'activation': 'relu', 'data_shape': (1024,), 'bias_init_consts': (2.0, 2.0, 2.0, 2.0, 2.0), 'batch_size': 30, 'nesterov': True, 'batchnorm': False, 'layer_sizes': (1000, 1000, 1000, 1000, 1000), 'nb_epoch': 10, 'weight_init_stddevs': (0.2, 0.2, 0.2, 0.2, 0.2), 'init': 'glorot_uniform'}
+computed_metrics: [nan, nan, nan, nan, 0.5, nan, nan, nan, nan, nan, nan, nan, 0.5, nan, 0.5, nan, nan]
+Model 1/1, Metric mean-roc_auc_score, Validation set 0: 0.500000
+	best_validation_score so far: 0.500000
+computed_metrics: [1.0, nan, 0.6666666666666667, 0.95, 0.8125, 0.875, 1.0, 0.75, 1.0, 1.0, 1.0, 1.0, nan, 0.75, 1.0, 0.5, 0.5]
+Best hyperparameters: (0.8, 5, 0.0, 0.0001, (1024,), (0.1, 0.1, 0.1, 0.1, 0.1), 1e-09, 'relu', (0.2, 0.2, 0.2, 0.2, 0.2), (2.0, 2.0, 2.0, 2.0, 2.0), 30, True, (1000, 1000, 1000, 1000, 1000), 10, False, 'glorot_uniform')
+train_score: 0.853611
+validation_score: 0.500000
+===============================================
