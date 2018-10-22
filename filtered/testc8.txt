@@ -1,0 +1,33 @@
+===============================================
+parameter = custom
+validation_score: 0.292586
+validation_score: 0.553354
+validation_score: 0.452322
+validation_score: 0.454140
+validation_score: 0.501688
+validation_score: 0.647692
+validation_score: 0.507924
+validation_score: 0.513471
+validation_score: 0.591085
+validation_score: 0.331821
+validation_score: 0.627746
+validation_score: 0.532111
+validation_score: 0.676160
+validation_score: 0.374615
+validation_score: 0.536125
+validation_score: 0.389658
+validation_score: 0.603394
+validation_score: 0.662886
+validation_score: 0.519523
+validation_score: 0.360217
+validation_score: 0.501650
+validation_score: 0.639483
+validation_score: 0.432288
+validation_score: 0.374054
+validation_score: 0.332085
+validation_score: 0.432885
+validation_score: 0.576978
+validation_score: 0.234782
+validation_score: 0.433866
+validation_score: 0.533265
+===============================================

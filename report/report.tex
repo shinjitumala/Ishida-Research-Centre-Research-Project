@@ -27,7 +27,7 @@
 
 \vspace{80mm}
 
-提出日：2018年10月31日
+提出日：2018年10月22日
 
 \vspace{10mm}
 
@@ -220,9 +220,9 @@ epochは大きめに設定してトレーニングを繰り返すことを行っ
 層の数を増やした状態で、さらに層ごとに変数を変化させたらどうなるかを実験したかったが、
 計算に時間がかかりすぎるので行わなかった。
 しかし、手動でいくつか試してみたところさらに良いパラメーターの組み合わせを見つけることができたので、
-図\label{optimal2}にパラメーターとその実行結果を示しておく。
-層とノードの設定はそのままにし、ほかのパラメーターを変化させてみたが、３％前後ぐらいの
-変化しかなく、かつ上がった時には分散が大きくなり結果が不安定になった。
+図\ref{optimal2}にパラメーターとその実行結果を示しておく。
+層とノードの設定はそのままにし、ほかのパラメーターを変化させてみたが、
+３％程度しか精度が上がらずかつ分散が大きくなり結果が不安定になった。
 したがって、
 ここまで精度が上がったのは、
 ニューラルネットワークの層とノードの数がちょうどいいものになったからだと考えている。
@@ -254,7 +254,7 @@ epochは大きめに設定してトレーニングを繰り返すことを行っ
 
 
 現代の薬学の世界では、バーチャールスクリーニングを行うことにより、薬学的に役に立つであろう物質を選び出すことが行われている。
-ところが、最近の研究により分子構造に基づいたバーチャルスクリーニング（SBVS）は、バリデーションで用いられるデータセットが結果に大きな影響を及ぼすことがわかった。特に、データ・セット間で分子量・水素結合の数等の「シンプル」な性質が大きく異なっていると、スコアが上がったかのように見えることにこのデータ・セットは注目している。
+ところが、最近の研究により分子構造に基づいたバーチャルスクリーニング（SBVS）は、バリデーションで用いられるデータセットが結果に大きな影響を及ぼすことがわかった。特に、データ・セット間で分子量・水素結合の数等の「シンプル」な性質が大きく異なっていると、スコアが上がったかのように見えることがわかっている。
 したがって、ある一定の範囲に収まる「シンプル」な性質を持つものを集めたデータ・セットでなければ、正しいバリデーションとは言えず、バイアスがかかってしまうと考えられる。今回用意されているデータ・セットは、そのようなバイアスがかからないように、集められたものであり、これはMaximum Unbiased Validation(最もバイアスが小さいバリデーション)メソッドを用いたバーチャルスクリーニングを可能にする。
 
 
@@ -267,21 +267,23 @@ MUV-600の構造は図\ref{muv-600-fig}のとおりになっている。
 \begin{figure}[H]
 	\begin{minipage}{0.5\hsize}
 		\begin{center}
-			\includegraphics[width=10cm, bb=0 0 560 420]{../matlab/test.jpg}
+			\includegraphics[width=12cm, bb=0 0 500 500]{../pictures/MUV-600/1.jpg}
 		\end{center}
 	\end{minipage}
 	\begin{minipage}{0.5\hsize}
 		\begin{center}
+			\includegraphics[width=12cm, bb=0 0 500 500]{../pictures/MUV-600/2.jpg}
 		\end{center}
 	\end{minipage}
 	\\
 	\begin{minipage}{0.5\hsize}
 		\begin{center}
-			\includegraphics[width=10cm, bb=0 0 560 420]{../matlab/test.jpg}
+			\includegraphics[width=12cm, bb=0 0 500 500]{../pictures/MUV-600/3.jpg}
 		\end{center}
 	\end{minipage}
 	\begin{minipage}{0.5\hsize}
 		\begin{center}
+			\includegraphics[width=12cm, bb=0 0 500 500]{../pictures/MUV-600/4.jpg}
 		\end{center}
 	\end{minipage}
 	\caption{MUV-600の構造} \label{muv-600-fig}
@@ -292,16 +294,17 @@ MUV-600の構造は図\ref{muv-600-fig}のとおりになっている。
 \begin{figure}[H]
 	\begin{minipage}{0.33\hsize}
 		\begin{center}
-			\includegraphics[width=8cm, bb=0 0 560 420]{../matlab/test.jpg}
+			\includegraphics[width=7cm, bb=0 0 500 500]{../pictures/active/1.png}
 		\end{center}
 	\end{minipage}
 	\begin{minipage}{0.33\hsize}
 		\begin{center}
+			\includegraphics[width=7cm, bb=0 0 500 500]{../pictures/active/2.png}
 		\end{center}
 	\end{minipage}
 	\begin{minipage}{0.33\hsize}
 		\begin{center}
-			\includegraphics[width=8cm, bb=0 0 560 420]{../matlab/test.jpg}
+			\includegraphics[width=7cm, bb=0 0 500 500]{../pictures/active/3.png}
 		\end{center}
 	\end{minipage}
 	\caption{活性のある化合物} \label{active}
@@ -312,16 +315,17 @@ MUV-600の構造は図\ref{muv-600-fig}のとおりになっている。
 \begin{figure}[H]
 	\begin{minipage}{0.33\hsize}
 		\begin{center}
-			\includegraphics[width=8cm, bb=0 0 560 420]{../matlab/test.jpg}
+			\includegraphics[width=7cm, bb=0 0 500 500]{../pictures/inactive/1.png}
 		\end{center}
 	\end{minipage}
 	\begin{minipage}{0.33\hsize}
 		\begin{center}
+			\includegraphics[width=7cm, bb=0 0 500 500]{../pictures/inactive/2.png}
 		\end{center}
 	\end{minipage}
 	\begin{minipage}{0.33\hsize}
 		\begin{center}
-			\includegraphics[width=8cm, bb=0 0 560 420]{../matlab/test.jpg}
+			\includegraphics[width=7cm, bb=0 0 500 500]{../pictures/inactive/3.png}
 		\end{center}
 	\end{minipage}
 	\caption{活性のない化合物} \label{inactive}
