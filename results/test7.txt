@@ -1,0 +1,37 @@
+===============================================
+batchnorm = False
+average_score: .592069
+variance: .005376
+===============================================
+batchnorm = True
+average_score: .473056
+variance: .007533
+===============================================
+weight-init-stddevs = (0.2,)
+average_score: .525103
+variance: .015291
+===============================================
+weight-init-stddevs = (0.3,)
+average_score: .551928
+variance: .017428
+===============================================
+weight-init-stddevs = (0.5,)
+average_score: .532044
+variance: .009730
+===============================================
+weight-init-stddevs = (0.7,)
+average_score: .497921
+variance: .003395
+===============================================
+weight-init-stddevs = (0.8,)
+average_score: .504344
+variance: .002949
+===============================================
+weight-init-stddevs = (0.9,)
+average_score: .540518
+variance: .010316
+===============================================
+weight-init-stddevs = (1.0,)
+average_score: .486800
+variance: .005469
+===============================================

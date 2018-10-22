@@ -1,0 +1,73 @@
+===============================================
+learning_rate = 1e-10
+validation_score: 0.248107
+validation_score: 0.628530
+validation_score: 0.394637
+validation_score: 0.697615
+validation_score: 0.639187
+validation_score: 0.398193
+validation_score: 0.511854
+validation_score: 0.338226
+validation_score: 0.671040
+validation_score: 0.508020
+===============================================
+learning_rate = 1e-08
+validation_score: 0.395818
+validation_score: 0.378976
+validation_score: 0.355249
+validation_score: 0.526462
+validation_score: 0.712111
+validation_score: 0.594296
+validation_score: 0.573242
+validation_score: 0.467484
+validation_score: 0.460488
+validation_score: 0.408977
+===============================================
+learning_rate = 1e-05
+validation_score: 0.577080
+validation_score: 0.603250
+validation_score: 0.556256
+validation_score: 0.408954
+validation_score: 0.798272
+validation_score: 0.533574
+validation_score: 0.452762
+validation_score: 0.584423
+validation_score: 0.444706
+validation_score: 0.339100
+===============================================
+learning_rate = 0.001
+validation_score: 0.483863
+validation_score: 0.491372
+validation_score: 0.587016
+validation_score: 0.672474
+validation_score: 0.502820
+validation_score: 0.723290
+validation_score: 0.562712
+validation_score: 0.443148
+validation_score: 0.521311
+validation_score: 0.561771
+===============================================
+learning_rate = 0.01
+validation_score: 0.442247
+validation_score: 0.534490
+validation_score: 0.476952
+validation_score: 0.496929
+validation_score: 0.531317
+validation_score: 0.407387
+validation_score: 0.456378
+validation_score: 0.523837
+validation_score: 0.562921
+validation_score: 0.471437
+===============================================
+learning_rate = 0.1
+validation_score: 0.499282
+validation_score: 0.498135
+validation_score: 0.498503
+validation_score: 0.496061
+validation_score: 0.528436
+validation_score: 0.498611
+validation_score: 0.529314
+validation_score: 0.498454
+validation_score: 0.498563
+validation_score: 0.498563
+===============================================

@@ -1,0 +1,120 @@
+\documentclass[a4j,11pt]{jarticle}
+\usepackage{epsfig,here}
+\usepackage{url}
+
+\usepackage{color}
+\usepackage{listings}
+
+\usepackage{amsmath}
+
+\setlength{\textwidth}{1.1\textwidth}
+\setlength{\oddsidemargin}{-3pt}
+\setlength{\evensidemargin}{\oddsidemargin}
+\setlength{\topmargin}{10mm}
+\setlength{\headheight}{0mm}
+\setlength{\headsep}{0mm}
+
+\begin{document}
+
+\begin{center}
+%\noindent
+　\vspace{10mm}
+
+{\bf {\huge 3Q 研究プロジェクト（石田研）}}
+%\end{center}
+
+\vspace{80mm}
+
+提出日：2018年10月31日
+
+\vspace{10mm}
+
+系／学科／類：情報工学系
+
+\vspace{10mm}
+
+学籍番号：16B13354
+
+\vspace{20mm}
+
+{\bf {\LARGE 氏名：星野　シンジ}}
+\end{center}
+
+\newpage
+
+\section{機械学習を用いた薬剤活性の予測}
+
+python向けのライブラリであるdeepchemをインストールし、そのチュートリアルのひとつである「Multitask Networks on MUV」をベースにして、薬剤活性の予測を行った。
+
+まず、チュートリアルに入っているハイパーパラメータで５０回実行したときの結果は図\ref{fig1}のようになった。
+
+
+このスコアが更に良くなるように、ハイパーパラメータを調整したい。
+そこで、
+もとのハイパーパラメータの変数を一つずつ変更し、平均スコアがどのように変化するかを調べた。その結果は、以下のようになった。
+
+
+ここまで、実験を行ったところで、より適切なハイパーパラメーターを設定できるように、それぞれのパラメーターの意味について調べて以下の表にまとめた。
+
+\begin{table}[htb]
+	\begin{tabular}{|l||p{10cm}|} \hline
+		パラメーター名        & 説明　\\ \hline \hline
+		momentum             & 
+エラー関数の大域的最小値を探そうとする際に、局所解を求めるようになっている。この値が大きければ大きいほど、アルゴリズムの「勢い」のようなものが大きくなり、
+ある局所解が求まったとしても、より最適な解を探そうとするようになる。\\ \hline
+		batch\_size           & 
+一度のイテレーションに用いられるトレーニングサンプルの数。小さすぎると、結果にノイズが乗りやすくなる。一方で、大きすぎると、テストデータが足りなくなる。 \\ \hline
+		learning\_rate, decay &
+アルゴリズムがデータから学習する際に、新しいデータの取り込みに対する
+感度を示す。learning\_rateの値が大きければ大きいほど、新しいデータに強く適応するようになる。
+また、データを取り込むにつれてあとから入ってくるデータの重みが小さくなっていくが、decayはその小さくなっていく速さを示す。\\ \hline
+		nb\_epoch	     &
+トレーニングサンプル間で、何度epochを行うか。epochとは、すべてのトレーニングデータ間で
+フォワードパスとバックワードパスを一度行うこと。つまり、各データに対してイテレーションを
+行うことである。\\ \hline
+		dropout              &　過激適合を避けるために、ノード間のウェイトを均等にする必要がある。そのために、ランダムにレイヤーのノードをオフにする、
+dropoutというものが行われるが、これはそれが起きる頻度を示す。\\ \hline
+		nb\_layers, layer\_sizes &
+ニューラルネットワークの層の数、および各層のノードの数を示す。\\ \hline
+		weight\_init\_stddevs  &
+重みの初期値を示す。これは、訓練中に調整されていく。\\ \hline
+		bias\_init\_consts     &
+バイアスの初期値を示す。ウェイトと同じく、これも訓練中に調整されていく。\\ \hline
+		penalty              &
+正則化を行う際の、極端なデータの重みに対するペナルティーを示す。これが大きいと、極端なデータの重みがより小さくなり、モデルに影響を与えにくくなる。\\ \hline
+	\end{tabular}
+\end{table}
+
+これらの情報から、ニューラルネットワークのレイヤーの変更に関わらないパラメーターだけを調整し、１レイヤーでは
+次のようなパラメーターでスコアの平均をを0.613569まで上げることができた。しかも、十回の思考での分散が0.005626ともともとのパラメーターのときよりも小さくなっているので、安定して6割程度の制度を得た。
+
+
+
+\newpage
+
+\section{MUVデータセットについて}
+
+まず、このデータ・セットがなんのためにあるのかについて、論文\cite{thesis}を読んでわかったことを以下で説明する。
+
+
+現代の薬学の世界では、バーチャールスクリーニングを行うことにより、薬学的に役に立つであろう物質を選び出すことが行われている。
+ところが、最近の研究により分子構造に基づいたバーチャルスクリーニング（SBVS）は、バリデーションで用いられるデータセットが結果に大きな影響を及ぼすことがわかった。特に、データ・セット間で分子量・水素結合の数等の「シンプル」な性質が大きく異なっていると、スコアが上がったかのように見えることにこのデータ・セットは注目している。
+したがって、ある一定の範囲に収まる「シンプル」な性質を持つものを集めたデータ・セットでなければ、正しいバリデーションとは言えず、バイアスがかかってしまうと考えられる。今回用意されているデータ・セットは、そのようなバイアスがかからないように、集められたものであり、これはMaximum Unbiased Validation(最もバイアスが小さいバリデーション)メソッドを用いたバーチャルスクリーニングを可能にする。
+
+
+次に、データ・セットに含まれていたタンパク質のうちの一つに注目し、それに対して活性のある化合物と活性のない化合物を挙げたる。
+
+今回注目したタンパク質は、MVUのデータ・セットに含まれる、MUV-600というものである。
+MUV-600の構造は以下のとおりになっている。
+\cite{MUV-600}
+
+このタンパク質に対し、活性のある化合物として以下のような構造をしているものが例として挙げられる。
+
+一方、活性のない化合物としては以下のようなものが挙げられる。
+
+\begin{thebibliography}{9}
+	\bibitem{thesis} Sebastian G. Rohrer and Knut Baumann, "Maximum Unbiased Validation (MUV) Data Sets for Virtual Screening Based on PubChem Bioactivity Data, " (URL: https://pubs.acs.org/doi/10.1021/ci8002649 as of Oct. 21 2018.)
+	\bibitem{MUV-600} PubChem MUV-600: \url{https://pubchem.ncbi.nlm.nih.gov/bioassay/600#section=Protocol} Protein Target: \url{https://pubchem.ncbi.nlm.nih.gov/target/protein/NP_004950}
+	\bibitem{regularization} 過学習を防ぐ方法　\url{https://products.sint.co.jp/aisia/blog/vol1-8}
+\end{thebibliography}
+\end{document}

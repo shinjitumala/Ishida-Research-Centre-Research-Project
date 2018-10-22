@@ -1,0 +1,99 @@
+===============================================
+nesterov = False
+validation_score: 0.161923
+validation_score: 0.649341
+validation_score: 0.845135
+validation_score: 0.493217
+validation_score: 0.310049
+validation_score: 0.887915
+validation_score: 0.378543
+validation_score: 0.514202
+validation_score: 0.516357
+validation_score: 0.542289
+===============================================
+nesterov = True
+validation_score: 0.500983
+validation_score: 0.506450
+validation_score: 0.560164
+validation_score: 0.570172
+validation_score: 0.566730
+validation_score: 0.553078
+validation_score: 0.602453
+validation_score: 0.470120
+validation_score: 0.482616
+validation_score: 0.614804
+===============================================
+dropouts = (0.0,)
+validation_score: 0.480186
+validation_score: 0.872411
+validation_score: 0.528376
+validation_score: 0.467980
+validation_score: 0.554235
+validation_score: 0.484062
+validation_score: 0.512756
+validation_score: 0.833073
+validation_score: 0.703749
+validation_score: 0.667158
+===============================================
+dropouts = (0.1,)
+validation_score: 0.735075
+validation_score: 0.649109
+validation_score: 0.528983
+validation_score: 0.543330
+validation_score: 0.644206
+validation_score: 0.733628
+validation_score: 0.246037
+validation_score: 0.775396
+validation_score: 0.533437
+validation_score: 0.612490
+===============================================
+dropouts = (0.3,)
+validation_score: 0.355548
+validation_score: 0.798428
+validation_score: 0.900526
+validation_score: 0.646650
+validation_score: 0.476036
+validation_score: 0.835387
+validation_score: 0.694088
+validation_score: 0.532425
+validation_score: 0.563787
+validation_score: 0.524630
+===============================================
+dropouts = (0.5,)
+validation_score: 0.564865
+validation_score: 0.356741
+validation_score: 0.630055
+validation_score: 0.480222
+validation_score: 0.464249
+validation_score: 0.680457
+validation_score: 0.674296
+validation_score: 0.241525
+validation_score: 0.584837
+validation_score: 0.561278
+===============================================
+dropouts = (0.7,)
+validation_score: 0.632210
+validation_score: 0.563599
+validation_score: 0.546497
+validation_score: 0.418829
+validation_score: 0.559043
+validation_score: 0.679104
+validation_score: 0.628442
+validation_score: 0.514108
+validation_score: 0.535469
+validation_score: 0.467033
+===============================================
+dropouts = (0.9,)
+validation_score: 0.393396
+validation_score: 0.660578
+validation_score: 0.544125
+validation_score: 0.721364
+validation_score: 0.365628
+validation_score: 0.519293
+validation_score: 0.506031
+validation_score: 0.325061
+validation_score: 0.572891
+validation_score: 0.498959
+===============================================
+dropouts = (1.0,)
+===============================================

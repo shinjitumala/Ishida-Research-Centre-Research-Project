@@ -1,1023 +1,121 @@
 ===============================================
-momentum = 0.1
-validation_score: 0.459656
-validation_score: 0.529073
-validation_score: 0.413746
-validation_score: 0.490393
-validation_score: 0.599296
-validation_score: 0.375890
-validation_score: 0.546575
-validation_score: 0.714203
-validation_score: 0.572025
-validation_score: 0.475376
-===============================================
-momentum = 0.2
-validation_score: 0.371958
-validation_score: 0.678004
-validation_score: 0.392211
-validation_score: 0.367025
-validation_score: 0.549813
-validation_score: 0.314327
-validation_score: 0.287018
-validation_score: 0.522920
-validation_score: 0.373121
-validation_score: 0.622195
-===============================================
-momentum = 0.3
-validation_score: 0.521583
-validation_score: 0.602553
-validation_score: 0.513144
-validation_score: 0.393825
-validation_score: 0.615565
-validation_score: 0.568308
-validation_score: 0.554178
-validation_score: 0.455338
-validation_score: 0.456499
-validation_score: 0.566098
-===============================================
-momentum = 0.4
-validation_score: 0.480494
-validation_score: 0.572915
-validation_score: 0.378451
-validation_score: 0.263525
-validation_score: 0.372485
-validation_score: 0.504857
-validation_score: 0.589213
-validation_score: 0.489714
-validation_score: 0.812638
-validation_score: 0.730958
-===============================================
-momentum = 0.5
-validation_score: 0.691018
-validation_score: 0.534500
-validation_score: 0.580302
-validation_score: 0.256919
-validation_score: 0.305430
-validation_score: 0.503756
-validation_score: 0.607882
-validation_score: 0.661001
-validation_score: 0.728754
-validation_score: 0.418456
-===============================================
-momentum = 0.6
-validation_score: 0.286127
-validation_score: 0.590566
-validation_score: 0.592275
-validation_score: 0.427227
-validation_score: 0.285419
-validation_score: 0.737301
-validation_score: 0.726261
-validation_score: 0.556093
-validation_score: 0.351144
-validation_score: 0.608167
-===============================================
-momentum = 0.7
-validation_score: 0.444347
-validation_score: 0.496331
-validation_score: 0.670939
-validation_score: 0.650442
-validation_score: 0.517171
-validation_score: 0.461526
-validation_score: 0.239487
-validation_score: 0.383586
-validation_score: 0.504211
-validation_score: 0.797227
-===============================================
-momentum = 0.8
-validation_score: 0.489230
-validation_score: 0.622629
-validation_score: 0.621952
-validation_score: 0.575028
-validation_score: 0.516250
-validation_score: 0.648157
-validation_score: 0.457059
-validation_score: 0.581661
-validation_score: 0.488198
-validation_score: 0.492635
-===============================================
-momentum = 0.9
-validation_score: 0.480825
-validation_score: 0.628104
-validation_score: 0.523813
-validation_score: 0.483977
-validation_score: 0.543382
-validation_score: 0.443403
-validation_score: 0.393338
-validation_score: 0.472525
-validation_score: 0.553507
-validation_score: 0.628422
-===============================================
-momentum = 1.0
-validation_score: 0.409187
-validation_score: 0.650817
-validation_score: 0.552739
-validation_score: 0.404024
-validation_score: 0.453028
-validation_score: 0.355671
-validation_score: 0.608386
-validation_score: 0.452819
-validation_score: 0.392664
-validation_score: 0.617225
-===============================================
-momentum = 1.5
-validation_score: 0.588742
-validation_score: 0.700169
-validation_score: 0.866384
-validation_score: 0.717829
-validation_score: 0.439325
-validation_score: 0.573005
-validation_score: 0.475692
-validation_score: 0.553305
-validation_score: 0.507563
-validation_score: 0.370687
-===============================================
-momentum = 2.0
-validation_score: 0.472547
-validation_score: 0.561274
-validation_score: 0.654749
-validation_score: 0.564221
-validation_score: 0.467024
-validation_score: 0.377549
-validation_score: 0.642929
-validation_score: 0.510363
-validation_score: 0.737147
-validation_score: 0.760267
-===============================================
-momentum = 3
-validation_score: 0.331349
-validation_score: 0.459978
-validation_score: 0.414175
-validation_score: 0.404777
-validation_score: 0.229782
-validation_score: 0.666634
-validation_score: 0.557087
-validation_score: 0.317894
-validation_score: 0.599415
-validation_score: 0.509175
-===============================================
-momentum = 4
-validation_score: 0.631171
-validation_score: 0.388271
-validation_score: 0.595284
-validation_score: 0.406012
-validation_score: 0.610759
-validation_score: 0.538661
-validation_score: 0.622559
-validation_score: 0.433014
-validation_score: 0.430633
-validation_score: 0.585183
-===============================================
-momentum = 5
-validation_score: 0.703393
-validation_score: 0.564502
-validation_score: 0.550859
-validation_score: 0.401852
-validation_score: 0.329817
-validation_score: 0.690777
-validation_score: 0.653092
-validation_score: 0.467959
-validation_score: 0.386630
-validation_score: 0.633223
-===============================================
 batch_size = 10
-validation_score: 0.477945
-validation_score: 0.607667
-validation_score: 0.617313
-validation_score: 0.350729
-validation_score: 0.503968
-validation_score: 0.762392
-validation_score: 0.482704
-validation_score: 0.638451
-validation_score: 0.423715
-validation_score: 0.367115
+validation_score: 0.485307
+validation_score: 0.576171
+validation_score: 0.548241
+validation_score: 0.534100
+validation_score: 0.426831
+validation_score: 0.537407
+validation_score: 0.592293
+validation_score: 0.671888
+validation_score: 0.589818
+validation_score: 0.577490
 ===============================================
 batch_size = 50
-validation_score: 0.446155
-validation_score: 0.608698
-validation_score: 0.208998
-validation_score: 0.536511
-validation_score: 0.481325
-validation_score: 0.573503
-validation_score: 0.491450
-validation_score: 0.657392
-validation_score: 0.535518
-validation_score: 0.433120
+validation_score: 0.581801
+validation_score: 0.575128
+validation_score: 0.601798
+validation_score: 0.449829
+validation_score: 0.486755
+validation_score: 0.754526
+validation_score: 0.543579
+validation_score: 0.497614
+validation_score: 0.433525
+validation_score: 0.427860
 ===============================================
 batch_size = 100
-validation_score: 0.517264
-validation_score: 0.545487
-validation_score: 0.519492
-validation_score: 0.377153
-validation_score: 0.528857
-validation_score: 0.653734
-validation_score: 0.303027
-validation_score: 0.519083
-validation_score: 0.637280
-validation_score: 0.317738
+validation_score: 0.405618
+validation_score: 0.689063
+validation_score: 0.701212
+validation_score: 0.366025
+validation_score: 0.690573
+validation_score: 0.453084
+validation_score: 0.650638
+validation_score: 0.529091
+validation_score: 0.567452
+validation_score: 0.544707
 ===============================================
 batch_size = 300
-validation_score: 0.456371
-validation_score: 0.644124
-validation_score: 0.323621
-validation_score: 0.269109
-validation_score: 0.529474
-validation_score: 0.485366
-validation_score: 0.600945
-validation_score: 0.342718
-validation_score: 0.547185
-validation_score: 0.322114
+validation_score: 0.636902
+validation_score: 0.273697
+validation_score: 0.736346
+validation_score: 0.440604
+validation_score: 0.625907
+validation_score: 0.577983
+validation_score: 0.640846
+validation_score: 0.436606
+validation_score: 0.291519
+validation_score: 0.588831
 ===============================================
 batch_size = 500
-validation_score: 0.206680
-validation_score: 0.342630
-validation_score: 0.526960
-validation_score: 0.548638
-validation_score: 0.360185
-validation_score: 0.627617
-validation_score: 0.469932
-validation_score: 0.393289
-validation_score: 0.305498
-validation_score: 0.570081
+validation_score: 0.792631
+validation_score: 0.526771
+validation_score: 0.735167
+validation_score: 0.680264
+validation_score: 0.689902
+validation_score: 0.598371
+validation_score: 0.415845
+validation_score: 0.587005
+validation_score: 0.458658
+validation_score: 0.627658
 ===============================================
 batch_size = 800
-validation_score: 0.605250
-validation_score: 0.432972
-validation_score: 0.435479
-validation_score: 0.261507
-validation_score: 0.246981
-validation_score: 0.275468
-validation_score: 0.340926
-validation_score: 0.587938
-validation_score: 0.315216
-validation_score: 0.302972
+validation_score: 0.360618
+validation_score: 0.472949
+validation_score: 0.463807
+validation_score: 0.514762
+validation_score: 0.558287
+validation_score: 0.348359
+validation_score: 0.417646
+validation_score: 0.289053
+validation_score: 0.601076
+validation_score: 0.333692
 ===============================================
 batch_size = 1000
-validation_score: 0.315608
-validation_score: 0.474395
-validation_score: 0.329171
-validation_score: 0.318457
-validation_score: 0.349512
-validation_score: 0.383939
-validation_score: 0.343017
-validation_score: 0.332447
-validation_score: 0.073870
-validation_score: 0.395615
+validation_score: 0.373384
+validation_score: 0.529783
+validation_score: 0.286030
+validation_score: 0.454777
+validation_score: 0.500594
+validation_score: 0.519659
+validation_score: 0.606863
+validation_score: 0.606939
+validation_score: 0.536120
+validation_score: 0.265048
 ===============================================
 batch_size = 2000
-validation_score: 0.283074
-validation_score: 0.258567
-validation_score: 0.518160
-validation_score: 0.572639
-validation_score: 0.515690
-validation_score: 0.447806
-validation_score: 0.599942
-validation_score: 0.404534
-validation_score: 0.262958
-validation_score: 0.292636
+validation_score: 0.489992
+validation_score: 0.491941
+validation_score: 0.391004
+validation_score: 0.628641
+validation_score: 0.529012
+validation_score: 0.621233
+validation_score: 0.440450
+validation_score: 0.478195
+validation_score: 0.694068
+validation_score: 0.533271
 ===============================================
 batch_size = 3000
-validation_score: 0.515236
-validation_score: 0.569085
-validation_score: 0.643862
-validation_score: 0.168161
-validation_score: 0.482034
-validation_score: 0.292917
-validation_score: 0.457220
-validation_score: 0.653549
-validation_score: 0.373451
-validation_score: 0.482020
+validation_score: 0.576903
+validation_score: 0.460582
+validation_score: 0.456922
+validation_score: 0.371120
+validation_score: 0.380281
+validation_score: 0.330629
+validation_score: 0.622993
+validation_score: 0.415546
+validation_score: 0.381866
+validation_score: 0.321962
 ===============================================
 batch_size = 4000
-validation_score: 0.385554
-validation_score: 0.244519
-validation_score: 0.428857
-validation_score: 0.339632
-validation_score: 0.167104
-validation_score: 0.282460
-validation_score: 0.615523
-validation_score: 0.538467
-validation_score: 0.596608
-validation_score: 0.689934
-===============================================
-learning_rate = 1e-10
-validation_score: 0.816115
-validation_score: 0.637711
-validation_score: 0.603306
-validation_score: 0.491959
-validation_score: 0.535060
-validation_score: 0.355879
-validation_score: 0.663365
-validation_score: 0.325679
-validation_score: 0.488698
-validation_score: 0.355704
-===============================================
-learning_rate = 1e-08
-validation_score: 0.626507
-validation_score: 0.469953
-validation_score: 0.689420
-validation_score: 0.141297
-validation_score: 0.617017
-validation_score: 0.408842
-validation_score: 0.748391
-validation_score: 0.242120
-validation_score: 0.302595
-validation_score: 0.284114
-===============================================
-learning_rate = 1e-05
-validation_score: 0.326930
-validation_score: 0.484794
-validation_score: 0.422571
-validation_score: 0.730058
-validation_score: 0.371615
-validation_score: 0.777565
-validation_score: 0.352600
-validation_score: 0.599583
-validation_score: 0.528538
-validation_score: 0.342269
-===============================================
-learning_rate = 0.001
-validation_score: 0.544859
-validation_score: 0.288141
-validation_score: 0.528293
-validation_score: 0.464578
-validation_score: 0.442203
-validation_score: 0.419020
-validation_score: 0.346779
-validation_score: 0.484854
-validation_score: 0.789977
-validation_score: 0.539783
-===============================================
-learning_rate = 0.01
-validation_score: 0.578888
-validation_score: 0.640760
-validation_score: 0.556588
-validation_score: 0.622498
-validation_score: 0.652277
-validation_score: 0.517009
-validation_score: 0.551111
-validation_score: 0.656134
-validation_score: 0.638325
-validation_score: 0.620765
-===============================================
-learning_rate = 0.1
-validation_score: 0.492722
-validation_score: 0.534945
-validation_score: 0.503575
-validation_score: 0.445178
-validation_score: 0.421860
-validation_score: 0.550180
-validation_score: 0.496795
-validation_score: 0.495573
-validation_score: 0.515497
-validation_score: 0.517368
-===============================================
-decay = 1e-10
-validation_score: 0.454466
-validation_score: 0.455381
-validation_score: 0.492796
-validation_score: 0.631958
-validation_score: 0.530310
-validation_score: 0.287644
-validation_score: 0.483150
-validation_score: 0.454035
-validation_score: 0.430712
-validation_score: 0.587222
-===============================================
-decay = 1e-08
-validation_score: 0.427990
-validation_score: 0.258409
-validation_score: 0.796894
-validation_score: 0.658696
-validation_score: 0.345054
-validation_score: 0.526530
-validation_score: 0.798888
-validation_score: 0.539607
-validation_score: 0.446268
-validation_score: 0.562589
-===============================================
-decay = 1e-06
-validation_score: 0.593632
-validation_score: 0.627266
-validation_score: 0.407205
-validation_score: 0.583561
-validation_score: 0.505354
-validation_score: 0.485943
-validation_score: 0.563308
-validation_score: 0.536618
-validation_score: 0.678737
-validation_score: 0.472265
-===============================================
-decay = 0.0001
-validation_score: 0.486920
-validation_score: 0.418987
-validation_score: 0.552957
-validation_score: 0.527235
-validation_score: 0.596250
-validation_score: 0.741531
-validation_score: 0.250763
-validation_score: 0.462741
-validation_score: 0.363701
-validation_score: 0.279911
-===============================================
-decay = 0.01
-validation_score: 0.437183
-validation_score: 0.370816
-validation_score: 0.551720
-validation_score: 0.596821
-validation_score: 0.671991
-validation_score: 0.529684
-validation_score: 0.423440
-validation_score: 0.230174
-validation_score: 0.607048
-validation_score: 0.542051
-===============================================
-decay = 0.1
-validation_score: 0.463325
-validation_score: 0.452686
-validation_score: 0.508199
-validation_score: 0.541892
-validation_score: 0.645620
-validation_score: 0.864185
-validation_score: 0.416645
-validation_score: 0.665394
-validation_score: 0.449906
-validation_score: 0.655450
-===============================================
-decay = 0
-validation_score: 0.711629
-validation_score: 0.399282
-validation_score: 0.629283
-validation_score: 0.330374
-validation_score: 0.465865
-validation_score: 0.402846
-validation_score: 0.475873
-validation_score: 0.442582
-validation_score: 0.499963
-validation_score: 0.750905
-===============================================
-nb_epoch = 1
-validation_score: 0.471266
-validation_score: 0.486563
-validation_score: 0.626476
-validation_score: 0.513856
-validation_score: 0.296474
-validation_score: 0.563455
-validation_score: 0.647894
-validation_score: 0.350480
-validation_score: 0.526533
-validation_score: 0.641112
-===============================================
-nb_epoch = 2
-validation_score: 0.728864
-validation_score: 0.532774
-validation_score: 0.633826
-validation_score: 0.478814
-validation_score: 0.658326
-validation_score: 0.631975
-validation_score: 0.285016
-validation_score: 0.568964
-validation_score: 0.500472
-validation_score: 0.695458
-===============================================
-nb_epoch = 3
-validation_score: 0.557096
-validation_score: 0.497364
-validation_score: 0.470154
-validation_score: 0.600485
-validation_score: 0.431862
-validation_score: 0.599918
-validation_score: 0.624448
-validation_score: 0.445217
-validation_score: 0.647687
-validation_score: 0.453016
-===============================================
-nb_epoch = 4
-validation_score: 0.623058
-validation_score: 0.755931
-validation_score: 0.725155
-validation_score: 0.442572
-validation_score: 0.573053
-validation_score: 0.501419
-validation_score: 0.547242
-validation_score: 0.464722
-validation_score: 0.632702
-validation_score: 0.602075
-===============================================
-nb_epoch = 5
-validation_score: 0.545824
-validation_score: 0.651140
-validation_score: 0.596127
-validation_score: 0.548480
-validation_score: 0.494152
-validation_score: 0.662812
-validation_score: 0.738921
-validation_score: 0.650004
-validation_score: 0.390452
-validation_score: 0.617567
-===============================================
-nesterov = False
-validation_score: 0.446151
-validation_score: 0.399549
-validation_score: 0.472218
-validation_score: 0.511503
-validation_score: 0.622605
-validation_score: 0.576754
-validation_score: 0.525306
-validation_score: 0.448421
-validation_score: 0.475220
-validation_score: 0.444198
-===============================================
-nesterov = True
-validation_score: 0.545252
-validation_score: 0.693956
-validation_score: 0.595473
-validation_score: 0.316356
-validation_score: 0.760712
-validation_score: 0.658132
-validation_score: 0.519708
-validation_score: 0.660224
-validation_score: 0.452076
-validation_score: 0.755589
-===============================================
-dropouts = (0.0,)
-validation_score: 0.706738
-validation_score: 0.541570
-validation_score: 0.400501
-validation_score: 0.434007
-validation_score: 0.235242
-validation_score: 0.582648
-validation_score: 0.453274
-validation_score: 0.625391
-validation_score: 0.516441
-validation_score: 0.589621
-===============================================
-dropouts = (0.1,)
-validation_score: 0.442768
-validation_score: 0.304773
-validation_score: 0.605546
-validation_score: 0.650566
-validation_score: 0.479180
-validation_score: 0.726667
-validation_score: 0.721596
-validation_score: 0.592678
-validation_score: 0.468327
-validation_score: 0.530090
-===============================================
-dropouts = (0.3,)
-validation_score: 0.502761
-validation_score: 0.555030
-validation_score: 0.392160
-validation_score: 0.488240
-validation_score: 0.399358
-validation_score: 0.645404
-validation_score: 0.623361
-validation_score: 0.555186
-validation_score: 0.441938
-validation_score: 0.413004
-===============================================
-dropouts = (0.5,)
-validation_score: 0.657100
-validation_score: 0.453293
-validation_score: 0.449075
-validation_score: 0.591765
-validation_score: 0.724975
-validation_score: 0.401245
-validation_score: 0.675115
-validation_score: 0.483730
-validation_score: 0.289195
-validation_score: 0.398813
-===============================================
-dropouts = (0.7,)
-validation_score: 0.513837
-validation_score: 0.342794
-validation_score: 0.443166
-validation_score: 0.630924
-validation_score: 0.386137
-validation_score: 0.469518
-validation_score: 0.536556
-validation_score: 0.307020
-validation_score: 0.655007
-validation_score: 0.377326
-===============================================
-dropouts = (0.9,)
-validation_score: 0.384502
-validation_score: 0.560907
-validation_score: 0.475654
-validation_score: 0.522204
-validation_score: 0.438808
-validation_score: 0.548581
-validation_score: 0.456195
-validation_score: 0.448503
-validation_score: 0.389961
-validation_score: 0.443583
-===============================================
-dropouts = (1.0,)
-===============================================
-nb_layers = 1
-validation_score: 0.313010
-validation_score: 0.329528
-validation_score: 0.278686
-validation_score: 0.506382
-validation_score: 0.667755
-validation_score: 0.752124
-validation_score: 0.282688
-validation_score: 0.316254
-validation_score: 0.648492
-validation_score: 0.538969
-===============================================
-nb_layers = 2
-validation_score: 0.509696
-validation_score: 0.500860
-validation_score: 0.651453
-validation_score: 0.498908
-validation_score: 0.477227
-validation_score: 0.466598
-validation_score: 0.396490
-validation_score: 0.577884
-validation_score: 0.718600
-validation_score: 0.343909
-===============================================
-nb_layers = 3
-validation_score: 0.676146
-validation_score: 0.496989
-validation_score: 0.538153
-validation_score: 0.374957
-validation_score: 0.635779
-validation_score: 0.681522
-validation_score: 0.534336
-validation_score: 0.645244
-validation_score: 0.530860
-validation_score: 0.550977
-===============================================
-nb_layers = 4
-validation_score: 0.710703
-validation_score: 0.553989
-validation_score: 0.562299
-validation_score: 0.498658
-validation_score: 0.697300
-validation_score: 0.693032
-validation_score: 0.539538
-validation_score: 0.445584
-validation_score: 0.624705
-validation_score: 0.556537
-===============================================
-nb_layers = 5
-validation_score: 0.458032
-validation_score: 0.669672
-validation_score: 0.395294
-validation_score: 0.557195
-validation_score: 0.434605
-validation_score: 0.380064
-validation_score: 0.727984
-validation_score: 0.598267
-validation_score: 0.391573
-validation_score: 0.718795
-===============================================
-batchnorm = False
-validation_score: 0.706386
-validation_score: 0.296832
-validation_score: 0.564385
-validation_score: 0.520480
-validation_score: 0.428985
-validation_score: 0.610711
-validation_score: 0.540197
-validation_score: 0.502579
-validation_score: 0.317552
-validation_score: 0.448284
-===============================================
-batchnorm = True
-validation_score: 0.541469
-validation_score: 0.616201
-validation_score: 0.718206
-validation_score: 0.763120
-validation_score: 0.440088
-validation_score: 0.526363
-validation_score: 0.607038
-validation_score: 0.489545
-validation_score: 0.302554
-validation_score: 0.654193
-===============================================
-layer_sizes = (100,)
-validation_score: 0.282039
-validation_score: 0.368679
-validation_score: 0.540690
-validation_score: 0.381142
-validation_score: 0.356287
-validation_score: 0.538657
-validation_score: 0.202258
-validation_score: 0.258024
-validation_score: 0.463458
-validation_score: 0.318396
-===============================================
-layer_sizes = (500,)
-validation_score: 0.572673
-validation_score: 0.299169
-validation_score: 0.495989
-validation_score: 0.340508
-validation_score: 0.425717
-validation_score: 0.242598
-validation_score: 0.530251
-validation_score: 0.455038
-validation_score: 0.195495
-validation_score: 0.736131
-===============================================
-layer_sizes = (1000,)
-validation_score: 0.582129
-validation_score: 0.622235
-validation_score: 0.292380
-validation_score: 0.515357
-validation_score: 0.369048
-validation_score: 0.509146
-validation_score: 0.634410
-validation_score: 0.659345
-validation_score: 0.449093
-validation_score: 0.515304
-===============================================
-layer_sizes = (2000,)
-validation_score: 0.477349
-validation_score: 0.552671
-validation_score: 0.579370
-validation_score: 0.552076
-validation_score: 0.655333
-validation_score: 0.351224
-validation_score: 0.347447
-validation_score: 0.490847
-validation_score: 0.451237
-validation_score: 0.585827
-===============================================
-weight-init-stddevs = (0.2,)
-validation_score: 0.529776
-validation_score: 0.427128
-validation_score: 0.445531
-validation_score: 0.654249
-validation_score: 0.721192
-validation_score: 0.568573
-validation_score: 0.393659
-validation_score: 0.727682
-validation_score: 0.324855
-validation_score: 0.482873
-===============================================
-weight-init-stddevs = (0.3,)
-validation_score: 0.331928
-validation_score: 0.501071
-validation_score: 0.542587
-validation_score: 0.613724
-validation_score: 0.381678
-validation_score: 0.444760
-validation_score: 0.348393
-validation_score: 0.567347
-validation_score: 0.668940
-validation_score: 0.442326
-===============================================
-weight-init-stddevs = (0.5,)
-validation_score: 0.379805
-validation_score: 0.394190
-validation_score: 0.477342
-validation_score: 0.516232
-validation_score: 0.508075
-validation_score: 0.580687
-validation_score: 0.502697
-validation_score: 0.465429
-validation_score: 0.630845
-validation_score: 0.510430
-===============================================
-weight-init-stddevs = (0.7,)
-validation_score: 0.413722
-validation_score: 0.440111
-validation_score: 0.494759
-validation_score: 0.321214
-validation_score: 0.541266
-validation_score: 0.542775
-validation_score: 0.482475
-validation_score: 0.536988
-validation_score: 0.424009
-validation_score: 0.352038
-===============================================
-weight-init-stddevs = (0.8,)
-validation_score: 0.401483
-validation_score: 0.475566
-validation_score: 0.465112
-validation_score: 0.499656
-validation_score: 0.484420
-validation_score: 0.491521
-validation_score: 0.471984
-validation_score: 0.457982
-validation_score: 0.486764
-validation_score: 0.465495
-===============================================
-weight-init-stddevs = (0.9,)
-validation_score: 0.414267
-validation_score: 0.423381
-validation_score: 0.477676
-validation_score: 0.449686
-validation_score: 0.488952
-validation_score: 0.575315
-validation_score: 0.505298
-validation_score: 0.430307
-validation_score: 0.419064
-validation_score: 0.452575
-===============================================
-weight-init-stddevs = (1.0,)
-validation_score: 0.409333
-validation_score: 0.475393
-validation_score: 0.484139
-validation_score: 0.430831
-validation_score: 0.499878
-validation_score: 0.417772
-validation_score: 0.441090
-validation_score: 0.433616
-validation_score: 0.486749
-validation_score: 0.489646
-===============================================
-bias_init_conts = (0.3,)
-validation_score: 0.279076
-validation_score: 0.268990
-validation_score: 0.323895
-validation_score: 0.408457
-validation_score: 0.506616
-validation_score: 0.300012
-validation_score: 0.531373
-validation_score: 0.607042
-validation_score: 0.440451
-validation_score: 0.621400
-===============================================
-bias_init_conts = (0.5,)
-validation_score: 0.506735
-validation_score: 0.768500
-validation_score: 0.493236
-validation_score: 0.501735
-validation_score: 0.371245
-validation_score: 0.434954
-validation_score: 0.517606
-validation_score: 0.713814
-validation_score: 0.460560
-validation_score: 0.647033
-===============================================
-bias_init_conts = (1.0,)
-validation_score: 0.607906
-validation_score: 0.292463
-validation_score: 0.640033
-validation_score: 0.188802
-validation_score: 0.577199
-validation_score: 0.715728
-validation_score: 0.764495
-validation_score: 0.509106
-validation_score: 0.409896
-validation_score: 0.411865
-===============================================
-bias_init_conts = (2.0,)
-validation_score: 0.637924
-validation_score: 0.482187
-validation_score: 0.689193
-validation_score: 0.498189
-validation_score: 0.481337
-validation_score: 0.498978
-validation_score: 0.757532
-validation_score: 0.468159
-validation_score: 0.539350
-validation_score: 0.597168
-===============================================
-bias_init_conts = (5.0,)
-validation_score: 0.602714
-validation_score: 0.453039
-validation_score: 0.527266
-validation_score: 0.510297
-validation_score: 0.562613
-validation_score: 0.510631
-validation_score: 0.493273
-validation_score: 0.632220
-validation_score: 0.582958
-validation_score: 0.497527
-===============================================
-penalty = 0
-validation_score: 0.424206
-validation_score: 0.495728
-validation_score: 0.435088
-validation_score: 0.310748
-validation_score: 0.537692
-validation_score: 0.488103
-validation_score: 0.576563
-validation_score: 0.535055
-validation_score: 0.372969
-validation_score: 0.654188
-===============================================
-penalty = 0.1
-validation_score: 0.503192
-validation_score: 0.547420
-validation_score: 0.747094
-validation_score: 0.559349
-validation_score: 0.362069
-validation_score: 0.417317
-validation_score: 0.613728
-validation_score: 0.524972
-validation_score: 0.416334
-validation_score: 0.523257
-===============================================
-penalty = 0.2
-validation_score: 0.445688
-validation_score: 0.368054
-validation_score: 0.515938
-validation_score: 0.531262
-validation_score: 0.399734
-validation_score: 0.565346
-validation_score: 0.537675
-validation_score: 0.596667
-validation_score: 0.667443
-validation_score: 0.434690
-===============================================
-penalty = 0.3
-validation_score: 0.501615
-validation_score: 0.658358
-validation_score: 0.719510
-validation_score: 0.576805
-validation_score: 0.639451
-validation_score: 0.423903
-validation_score: 0.383103
-validation_score: 0.497811
-validation_score: 0.569764
-validation_score: 0.610885
-===============================================
-penalty = 0.4
-validation_score: 0.714141
-validation_score: 0.398450
-validation_score: 0.535097
-validation_score: 0.267605
-validation_score: 0.545993
-validation_score: 0.464917
-validation_score: 0.385719
-validation_score: 0.539381
-validation_score: 0.757281
-validation_score: 0.410551
-===============================================
-penalty = 0.5
-validation_score: 0.531116
-validation_score: 0.406118
-validation_score: 0.503963
-validation_score: 0.702674
-validation_score: 0.323330
-validation_score: 0.496627
-validation_score: 0.502361
-validation_score: 0.386841
-validation_score: 0.484709
-validation_score: 0.707444
-===============================================
-penalty = 0.6
-validation_score: 0.508368
-validation_score: 0.534402
-validation_score: 0.314178
-validation_score: 0.468550
-validation_score: 0.714937
-validation_score: 0.267678
-validation_score: 0.376614
-validation_score: 0.397729
-validation_score: 0.418437
-validation_score: 0.455187
-===============================================
-penalty = 0.7
-validation_score: 0.323092
-validation_score: 0.514706
-validation_score: 0.346339
-validation_score: 0.659943
-validation_score: 0.505076
-validation_score: 0.585307
-validation_score: 0.395204
-validation_score: 0.634835
-validation_score: 0.778114
-validation_score: 0.285137
-===============================================
-penalty = 0.8
-validation_score: 0.630623
-validation_score: 0.437518
-validation_score: 0.609851
-validation_score: 0.516209
-validation_score: 0.615495
-validation_score: 0.654618
-validation_score: 0.518019
-validation_score: 0.542220
-validation_score: 0.643445
-validation_score: 0.727888
-===============================================
-penalty = 0.9
-validation_score: 0.616077
-validation_score: 0.371390
-validation_score: 0.420434
-validation_score: 0.455194
-validation_score: 0.467619
-validation_score: 0.570721
-validation_score: 0.401474
-validation_score: 0.341322
-validation_score: 0.528369
-validation_score: 0.569999
-===============================================
-penalty = 1.0
-validation_score: 0.416358
-validation_score: 0.758025
-validation_score: 0.598147
-validation_score: 0.468892
-validation_score: 0.523901
-validation_score: 0.494247
-validation_score: 0.654156
-validation_score: 0.551332
-validation_score: 0.592711
-validation_score: 0.591279
+validation_score: 0.409970
+validation_score: 0.433093
+validation_score: 0.466832
+validation_score: 0.635072
+validation_score: 0.368237
+validation_score: 0.397017
+validation_score: 0.304697
+validation_score: 0.613171
+validation_score: 0.604490
+validation_score: 0.599182
 ===============================================
